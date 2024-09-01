@@ -111,7 +111,7 @@ Welcome to the Heart Disease Prediction API, a project using FastAPI to predict 
 ## Deployment to Render
 
 - Created a Render account by using Git hub authentications. 
-- Connected GitHub repository called "FastAPI Application" 
+- Connected GitHub repository called "Heart Disease Prediction API with 100% Accuracy" 
 - Finally deployee the GitHub repository to Render Cloud. 
 
   **Visit to the API:**
