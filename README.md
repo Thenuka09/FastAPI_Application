@@ -93,9 +93,9 @@ Welcome to the Heart Disease Prediction API, a project using FastAPI to predict 
 - Method : Get
 - Response: 
 
-```bash
-  "message" : "Welcome to FastAPI"
-```
+    ```bash
+      "message" : "Welcome to FastAPI"
+    ```
 
 2. Predict Heart Disease
 
@@ -103,9 +103,9 @@ Welcome to the Heart Disease Prediction API, a project using FastAPI to predict 
 - Method : Post
 - Response:
 
-```bash
-   "prediction": "The person does not have a  Heart Disease"
-```
+    ```bash
+       "prediction": "The person does not have a  Heart Disease"
+    ```
 
 
 ## Deployment to Render
